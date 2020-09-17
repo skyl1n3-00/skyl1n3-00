@@ -45,4 +45,4 @@
 - 🌱 I’m currently learning ... ReactJS and Blockchain Technology
 - 💬 Ask me about ... Linux and Networking, C Language, JAVA, Python and JavaScript.
 - ⚡ Intrested in: ... Web Scraping and Data Science
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: ... He/His/Him
